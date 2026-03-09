@@ -1,4 +1,4 @@
-# data-analysis-exercises
+# data-manipulation-exercises
 Repo with my data analysis exercises with numpy, pandas, matplotlib.
 
 
